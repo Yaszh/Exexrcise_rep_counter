@@ -49,7 +49,6 @@ This computer vision project utilizes the power of Mediapipe to count successful
 
 - Python 3.x
 - Mediapipe Library
-- [Add any additional dependencies or installation steps]
 
 ## Installation
 
@@ -71,6 +70,11 @@ This computer vision project utilizes the power of Mediapipe to count successful
    ```bash
    python main.py
    ```
+   ## Demo Video
+
+Check out the demo video to see the Knee Bend Exercise Rep Counter in action:
+
+https://github.com/Yaszh/Exexrcise_rep_counter/assets/71252244/bf895f58-f2bd-4091-bbd9-1e403bab7f3c
 
 ## Contributing
 
