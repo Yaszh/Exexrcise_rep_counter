@@ -1,0 +1,7 @@
+# requirements.txt
+
+# OpenCV library for computer vision
+opencv-python==4.5.3
+
+# Mediapipe library for pose detection
+mediapipe==0.8.6
